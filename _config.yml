@@ -1,0 +1,6 @@
+theme: jekyll-theme-minimal
+title: QBlock Data Safety
+baseurl: "/Sky"
+url: "https://qblockq.github.io"
+include:
+  - "docs"
