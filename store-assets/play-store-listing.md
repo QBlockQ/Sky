@@ -1,13 +1,13 @@
-# QBlock Play Store Listing
+# Sky Play Store Listing
 
 ## App Name
-QBlock
+Sky (by QBlock)
 
 ## Short Description (80 characters)
 A decentralized social networking app built on the AT Protocol for seamless communication.
 
 ## Full Description (4000 characters)
-QBlock is a modern social networking app that puts you in control of your social experience. Built on the decentralized AT Protocol, QBlock offers a fresh perspective on digital communication and content sharing.
+Sky is a modern social networking app developed by QBlock that puts you in control of your social experience. Built on the decentralized AT Protocol, Sky offers a fresh perspective on digital communication and content sharing.
 
 Key Features:
 • Create and share posts with text, images, and videos
@@ -17,7 +17,7 @@ Key Features:
 • Privacy-focused design
 • Cross-platform compatibility
 
-QBlock provides:
+Sky provides:
 ✓ Clean, intuitive interface
 ✓ Fast, responsive performance
 ✓ Secure, decentralized architecture
@@ -25,7 +25,7 @@ QBlock provides:
 ✓ Customizable user experience
 ✓ Community-driven environment
 
-Join QBlock today and be part of a growing community that values privacy, freedom, and genuine connections.
+Join Sky today and be part of a growing community that values privacy, freedom, and genuine connections.
 
 ## Screenshots Description (8 required)
 1. Home Feed - "Discover trending topics and conversations"
@@ -34,11 +34,11 @@ Join QBlock today and be part of a growing community that values privacy, freedo
 4. Search & Discover - "Find interesting people and content"
 5. Notifications - "Stay updated with interactions and mentions"
 6. Messages - "Connect privately with other users"
-7. Settings - "Customize your QBlock experience"
+7. Settings - "Customize your Sky experience"
 8. Media Sharing - "Share and view rich media content"
 
 ## Feature Graphic Description (1024x500)
-Clean, modern design showcasing the QBlock logo with a dynamic background representing social connections.
+Clean, modern design showcasing the Sky app logo with a dynamic background representing social connections.
 
 ## App Icon (512x512)
 Already implemented in assets/icon.png

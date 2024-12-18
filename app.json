@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "QBlock",
-    "slug": "qblock",
+    "name": "Sky",
+    "slug": "sky",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -18,14 +18,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.qblock.app"
+      "bundleIdentifier": "com.qblock.sky"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.qblock.app"
+      "package": "com.qblock.sky"
     },
     "web": {
       "favicon": "./assets/favicon.png"
